@@ -4,6 +4,6 @@ import sqlite3
 logging.basicConfig(
     level=logging.DEBUG,
     format='%(asctime)s - %(levelname)s - %(message)s',
-    filename='assignment1.log',
+    filename='assignment2.log',
     filemode='w'
 )
