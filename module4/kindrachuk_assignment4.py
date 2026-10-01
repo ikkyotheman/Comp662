@@ -76,17 +76,13 @@ def lookup_year(con):
 def main():
     con = sqlite3.connect('dbmovies.sqlite')
     logging.debug('Connected to dbmovies.sqlite')
-
     update_year(con, 'Toy Story', 1995)
     delete_movie(con, 'Lawrence of Arabia')
-
     print('Welcome to the MovieDB!')
-
     again = 'y'
     while again == 'y':
         lookup_year(con)
         again = input('Look up another year (y/n)? ').lower()
-
     print('Take care and make sure to watch more movies!')
 
     # Closing the DB
