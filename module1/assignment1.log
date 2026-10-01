@@ -1,0 +1,7 @@
+2026-09-14 14:48:07,300 - INFO - Program started
+2026-09-14 14:48:07,300 - DEBUG - Connecting to chinook.db
+2026-09-14 14:48:07,300 - INFO - Connection established
+2026-09-14 14:48:07,300 - DEBUG - Executing query: SELECT * FROM artists
+2026-09-14 14:48:07,301 - INFO - Retrieved 275 artists
+2026-09-14 14:48:07,302 - INFO - Connection closed
+2026-09-14 14:48:07,302 - INFO - Program finished

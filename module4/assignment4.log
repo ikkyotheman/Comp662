@@ -1,0 +1,6 @@
+2026-09-30 22:52:45,089 - DEBUG - Connected to dbmovies.sqlite
+2026-09-30 22:52:45,089 - DEBUG - Updated the year of Toy Story to 1995
+2026-09-30 22:52:45,089 - DEBUG - Deleted Lawrence of Arabia
+2026-09-30 22:52:47,397 - DEBUG - User entered the year 1995
+2026-09-30 22:52:47,398 - DEBUG - Found 1 movie(s) for 1995
+2026-09-30 22:52:50,929 - DEBUG - Connection closed
